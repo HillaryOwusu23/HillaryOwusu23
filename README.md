@@ -10,7 +10,7 @@ From tinkering with algorithms to building scalable architectures, I thrive on t
 ## 🚀 About Me
 👨🏾‍💻 Currently, I'm contributing to innovative projects at [Amalitech Ghana.  
 🏡 Freelancing since completing high school in 2022, crafting bespoke solutions .  
-👨🏾‍🏫 Despite attending University of Mines anD Technology, I am largely self-taught.  
+👨🏾‍🏫 Despite attending University of Mines and Technology, I am largely self-taught.  
 
 ---
 
